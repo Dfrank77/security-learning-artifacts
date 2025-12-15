@@ -10,4 +10,4 @@ This repo contains short, resume-friendly write-ups that document configuration 
 
 ## Scope / Notes
 - Lab-tenant only. No employer or sensitive tenant data included.
-- Goal: demonstrate real-world IAM patterns (least privilege, just-in-time elevation, auditability).
+- Goal: demonstrate real-world IAM patterns (least privilege, just-in-time elevation, auditability, access reviews).
