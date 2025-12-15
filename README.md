@@ -6,6 +6,7 @@ This repo contains short, resume-friendly write-ups that document configuration 
 ## Artifacts
 - [Entra Lab 0: Tenant Basics, Users & Groups](entra/lab-0-tenant-basics-users-groups.md)
 - [Entra Lab 2: Simple SSO to a Gallery Application](entra/lab-2-simple-sso-gallery-app.md)
+- [Entra Lab 3: B2B Guest User & Group-based Access](entra/lab-3-b2b-guest-group-access.md)
 - [Conditional Access MFA Lab (Build + Validation)](entra/conditional-access-mfa-lab.md)
 - [Entra Sign-in Log Triage Checklist](entra/sign-in-log-triage-checklist.md)
 - [PIM Role-Assignable Admin Group (Request + Approval + Audit Chain)](entra/pim-role-assignable-admin-group.md)
