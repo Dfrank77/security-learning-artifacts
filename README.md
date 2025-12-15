@@ -3,18 +3,15 @@
 Practical IAM-focused artifacts built from hands-on labs in Microsoft Entra ID and related identity tooling.
 This repo contains short, resume-friendly write-ups that document configuration decisions, validation steps, and security rationale.
 
-**Start here: PIM role-assignable admin group (request + approval + audit chain) + Conditional Access MFA lab.**
 ---
 
 ## ✅ Start here (2 minutes)
 
 1. **[PIM Role-Assignable Admin Group (Request + Approval + Audit Chain)](./entra/pim-role-assignable-admin-group.md)**
-2. **[Conditional Access MFA Lab (Build + Validation)](./entra/PASTE-FILENAME-HERE.md)**
+2. **[Conditional Access MFA Lab (Build + Validation)](./entra/conditional-access-mfa-lab.md)**
 
 ---
 ## Artifacts
-1. **[PIM Role-Assignable Admin Group (Request + Approval + Audit Chain)](entra/pim-role-assignable-admin-group.md)**
-2. **[Conditional Access MFA Lab (Build + Validation)](entra/conditional-access-mfa-lab.md)**
 - [Entra PIM Lab: Global Administrator as Eligible (JIT Access)](entra/pim-global-admin-lab.md)
 - [Entra Sign-in Log Triage Checklist](entra/sign-in-log-triage-checklist.md)
 - [Access Reviews: Interpretation Guide](entra/access-reviews-interpretation-guide.md)
