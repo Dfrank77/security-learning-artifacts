@@ -5,8 +5,8 @@ This repo contains short, resume-friendly write-ups that document configuration 
 
 **Start here: PIM role-assignable admin group (request + approval + audit chain) + Conditional Access MFA lab.**
 ## Artifacts
-- **[PIM Role-Assignable Admin Group (Request + Approval + Audit Chain)](entra/pim-role-assignable-admin-group.md)**
-- **[Conditional Access MFA Lab (Build + Validation)](entra/conditional-access-mfa-lab.md)**
+1. **[PIM Role-Assignable Admin Group (Request + Approval + Audit Chain)](entra/pim-role-assignable-admin-group.md)**
+2. **[Conditional Access MFA Lab (Build + Validation)](entra/conditional-access-mfa-lab.md)**
 - [Entra PIM Lab: Global Administrator as Eligible (JIT Access)](entra/pim-global-admin-lab.md)
 - [Entra Sign-in Log Triage Checklist](entra/sign-in-log-triage-checklist.md)
 - [Access Reviews: Interpretation Guide](entra/access-reviews-interpretation-guide.md)
