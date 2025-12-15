@@ -6,7 +6,7 @@ Harden Okta admin access using strong MFA and group-based admin roles, and valid
 ## 1) Group-Based Admin Role Assignment
 - Created group: `GRP-Okta-Admins-Lab`
 - Assigned an Okta admin role to the **group** (not directly to users)
-- Added lab admin user (`Admin1`) to the group
+- Added lab admin user (`Admin1`) to the group 
 
 ## 2) Strong MFA for Okta Admin Console
 - Verified authenticators (Password, Okta Verify, WebAuthn/FIDO2 where supported)
