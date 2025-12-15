@@ -4,6 +4,7 @@ Practical IAM-focused artifacts built from hands-on labs in Microsoft Entra ID a
 This repo contains short, resume-friendly write-ups that document configuration decisions, validation steps, and security rationale.
 
 ## Artifacts
+- [Entra Lab 0: Tenant Basics, Users & Groups](entra/lab-0-tenant-basics-users-groups.md)
 - [Conditional Access MFA Lab (Build + Validation)](entra/conditional-access-mfa-lab.md)
 - [Entra Sign-in Log Triage Checklist](entra/sign-in-log-triage-checklist.md)
 - [PIM Role-Assignable Admin Group (Request + Approval + Audit Chain)](entra/pim-role-assignable-admin-group.md)
