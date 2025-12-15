@@ -9,7 +9,9 @@ This repo contains short, resume-friendly write-ups that document configuration 
 - [PIM Role-Assignable Admin Group (Request + Approval + Audit Chain)](entra/pim-role-assignable-admin-group.md)
 - [Entra PIM Lab: Global Administrator as Eligible (JIT Access)](entra/pim-global-admin-lab.md)
 - [Access Reviews: Interpretation Guide](entra/access-reviews-interpretation-guide.md)
-- [Okta Lab 0: Org Setup & Basic MFA](okta/lab-0-org-setup-basic-mfa.md)- [Okta Admin MFA + Lifecycle Automation Lab](okta/admin-mfa-lifecycle-lab.md)
+- [Okta Lab 0: Org Setup & Basic MFA](okta/lab-0-org-setup-basic-mfa.md)
+- [Okta Lab 3: User Lifecycle & Deactivation](okta/lab-3-user-lifecycle-deactivation.md)
+- [Okta Admin MFA + Lifecycle Automation Lab](okta/admin-mfa-lifecycle-lab.md)
 - [Okta SSO Build + Troubleshooting (SAML & OIDC)](okta/sso-build-troubleshooting.md)
 
 ## Scope / Notes
