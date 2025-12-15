@@ -18,8 +18,10 @@ This repo contains short, resume-friendly write-ups that document configuration 
 - [Okta SSO Build + Troubleshooting (SAML & OIDC)](okta/sso-build-troubleshooting.md)
 - [Okta Lab 3: User Lifecycle & Deactivation](okta/lab-3-user-lifecycle-deactivation.md)
 - [Okta Lab 0: Org Setup & Basic MFA](okta/lab-0-org-setup-basic-mfa.md)
+- [Hybrid Lab 1: On-Prem AD Setup + OU/UPN Prep](hybrid/lab-1-ad-ous-upn-prep.md)
+- [Hybrid Lab 2: Entra Connect (PHS) + Scoped OU Sync + Sign-in Validation](hybrid/lab-2-entra-connect-phs-scoped-sync.md)
 
-## Scope / Notes
+- ## Scope / Notes
 - Lab-tenant only. No employer or sensitive tenant data included.
 - Goal: demonstrate real-world IAM patterns (least privilege, just-in-time elevation, auditability, access reviews).
 
