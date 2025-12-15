@@ -10,6 +10,7 @@ This repo contains short, resume-friendly write-ups that document configuration 
 - [Entra PIM Lab: Global Administrator as Eligible (JIT Access)](entra/pim-global-admin-lab.md)
 - [Access Reviews: Interpretation Guide](entra/access-reviews-interpretation-guide.md)
 - [Okta Admin MFA + Lifecycle Automation Lab](okta/admin-mfa-lifecycle-lab.md)
+- [Okta SSO Build + Troubleshooting (SAML & OIDC)](okta/sso-build-troubleshooting.md)
 
 ## Scope / Notes
 - Lab-tenant only. No employer or sensitive tenant data included.
