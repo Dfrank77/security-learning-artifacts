@@ -13,28 +13,28 @@ This repo contains short, resume-friendly write-ups that document configuration 
 ---
 ## Artifacts
 
-### Entra (IAM / Governance)
+### **Entra (IAM / Governance)**
 - [Entra PIM Lab: Global Administrator as Eligible (JIT Access)](entra/pim-global-admin-lab.md)
 - [Entra Sign-in Log Triage Checklist](entra/sign-in-log-triage-checklist.md)
 - [Entra Lab 3: B2B Guest User & Group-based Access](entra/lab-b2b-guest-group-access.md)
 - [Entra Lab 2: Simple SSO to a Gallery Application](entra/lab-simple-sso-gallery-app.md)
 - [Entra Lab 0: Tenant Basics, Users & Groups](entra/lab-0-tenant-basics-users-groups.md)
 
-### Okta
+### **Okta**
 - [Okta Admin MFA + Lifecycle Automation Lab](okta/admin-mfa-lifecycle-lab.md)
 - [Okta SSO Build + Troubleshooting (SAML & OIDC)](okta/sso-build-troubleshooting.md)
 - [Okta Lab 3: User Lifecycle & Deactivation](okta/user-lifecycle-deactivation.md)
 - [Okta Lab 0: Org Setup & Basic MFA](okta/lab-0-org-setup-basic-mfa.md)
 
-### Hybrid AD → Entra
+### **Hybrid AD → Entra**
 - [Hybrid Lab 1: On-Prem AD Setup + OU/UPN Prep](hybrid/lab-1-ad-ous-upn-prep.md)
 - [Hybrid Lab 2: Entra Connect (PHS) + Scoped OU Sync + Sign-in Validation](hybrid/lab-2-entra-connect-phs-scoped-sync.md)
 
-- ## Scope / Notes
+## **Scope / Notes**
 - Lab-tenant only. No employer or sensitive tenant data included.
 - Goal: demonstrate real-world IAM patterns (least privilege, just-in-time elevation, auditability, access reviews).
 
-## Next
+## **Next**
 - Break-glass accounts lab (build + validation)
 - Guest access review with auto-removal for not-reviewed
 - Okta group rules (attribute-driven access automation)
