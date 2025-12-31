@@ -15,6 +15,11 @@ Practical IAM-focused artifacts built from hands-on labs in Microsoft Entra ID, 
 
 ---
 
+## Quick Reference
+📋 [AWS IAM Commands Cheat Sheet](aws-iam-labs/aws-iam-commands-cheatsheet.md) - Comprehensive CLI reference guide
+
+---
+
 ## Artifacts by Platform
 
 ### 🔷 AWS (IAM / Security Controls)
@@ -38,7 +43,24 @@ Organization-wide security guardrails that enforce least-privilege access across
 
 **Real-World Application:** These SCPs enforce the same security principles as Conditional Access in Entra ID - policy-based controls that apply organization-wide, preventing privilege escalation and enforcing MFA.
 
-**Tools Used:** AWS CLI, jq, JSON policy authoring
+**Tools Used:** AWS CLI, jq, JSON policy authoring 
+
+---
+
+### Lab 2: IAM Access Analyzer
+**Continuous security monitoring for IAM misconfigurations**
+
+Implemented organization-wide IAM Access Analyzer to detect and remediate security risks:
+- Enabled Access Analyzer for continuous IAM policy scanning
+- Created test scenario with publicly accessible S3 bucket
+- Investigated security finding using AWS CLI
+- Analyzed root cause (bucket policy with Principal: "*")
+- Remediated issue and verified finding resolution
+- Generated compliance audit reports
+
+**Skills:** Security monitoring, finding investigation, incident response, compliance documentation
+
+📁 [View Lab 2](aws-iam-labs/lab2-iam-access-analyzer/)
 
 ---
 
