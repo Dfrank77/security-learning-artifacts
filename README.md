@@ -1,8 +1,10 @@
 # Security Learning Artifacts (IAM)
 
-Practical IAM-focused artifacts built from hands-on labs in Microsoft Entra ID, AWS, Okta, and hybrid identity scenarios. This repo contains short, resume-friendly write-ups that document configuration decisions, validation steps, and security rationale.
+**2-year IAM professional** building practical, hands-on labs across Microsoft Entra ID, AWS, Okta, and hybrid identity scenarios. This portfolio demonstrates foundational IAM skills suitable for mid-level Security/IAM Analyst roles.
 
-**Purpose:** Demonstrate real-world IAM implementation skills across multiple platforms, with emphasis on least privilege, just-in-time access, auditability, and compliance.
+**What's Inside:** Lab-based implementations documenting configuration decisions, validation steps, and security rationale across multiple platforms - showcasing learning agility and technical execution.
+
+**Focus Areas:** Least privilege, just-in-time access, policy-based controls, compliance frameworks (SOC 2, PCI-DSS, CMMC), and cross-platform IAM concepts.
 
 ---
 
