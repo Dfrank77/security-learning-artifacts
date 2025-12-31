@@ -16,7 +16,7 @@ Practical IAM-focused artifacts built from hands-on labs in Microsoft Entra ID, 
 ---
 
 ## Quick Reference
-📋 [AWS IAM Commands Cheat Sheet](aws-iam-labs/aws-iam-commands-cheatsheet.md) - Comprehensive CLI reference guide
+[AWS IAM Commands Cheat Sheet](aws-iam-labs/aws-iam-commands-cheatsheet.md) - Comprehensive CLI reference guide
 
 ---
 
