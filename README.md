@@ -6,7 +6,7 @@ Practical IAM-focused artifacts built from hands-on labs in Microsoft Entra ID, 
 
 ---
 
-## 🔥 Featured Labs
+## Featured Labs
 
 ### Quick Start (Choose Your Platform)
 - **New to IAM?** Start with [Entra Lab 0: Tenant Basics](entra/)
@@ -16,7 +16,7 @@ Practical IAM-focused artifacts built from hands-on labs in Microsoft Entra ID, 
 ---
 
 ## Quick Reference
-📋 [AWS IAM Commands Cheat Sheet](aws-iam-labs/aws-iam-commands-cheatsheet.md) - Comprehensive CLI reference guide
+[AWS IAM Commands Cheat Sheet](aws-iam-labs/aws-iam-commands-cheatsheet.md) - Comprehensive CLI reference guide
 
 ---
 
@@ -47,20 +47,29 @@ Organization-wide security guardrails that enforce least-privilege access across
 
 ---
 
-### Lab 2: IAM Access Analyzer
-**Continuous security monitoring for IAM misconfigurations**
+#### [Lab 2: IAM Access Analyzer](aws-iam-labs/lab2-iam-access-analyzer/)
 
-Implemented organization-wide IAM Access Analyzer to detect and remediate security risks:
-- Enabled Access Analyzer for continuous IAM policy scanning
-- Created test scenario with publicly accessible S3 bucket
-- Investigated security finding using AWS CLI
-- Analyzed root cause (bucket policy with Principal: "*")
-- Remediated issue and verified finding resolution
-- Generated compliance audit reports
+Organization-wide security monitoring that continuously scans for IAM misconfigurations and external access risks.
 
-**Skills:** Security monitoring, finding investigation, incident response, compliance documentation
+**What I Built:**
+- Organization-wide IAM Access Analyzer deployment
+- Test scenario: Publicly accessible S3 bucket
+- Security finding investigation and root cause analysis
+- Remediation workflow and verification
+- Compliance audit report generation
 
-📁 [View Lab 2](aws-iam-labs/lab2-iam-access-analyzer/)
+**Skills Demonstrated:**
+- Security monitoring and alerting
+- Incident investigation and response
+- IAM policy analysis
+- Compliance documentation
+- CLI-based security operations
+
+**Real-World Application:** Continuous detection of IAM risks (similar to Entra ID's Access Reviews) - identifies overly permissive policies, external access, and configuration drift. Critical for SOC 2 compliance and security operations.
+
+**Tools Used:** AWS CLI, IAM Access Analyzer, jq, JSON analysis
+
+[View Lab 2](aws-iam-labs/lab2-iam-access-analyzer/)
 
 ---
 
@@ -320,4 +329,4 @@ Built as part of a career transition from hospitality management to cybersecurit
 
 ---
 
-*Last Updated: December 2024*
+*Last Updated: December 2025*
