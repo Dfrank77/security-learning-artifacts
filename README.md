@@ -28,7 +28,8 @@ Practical IAM-focused artifacts built from hands-on labs in Microsoft Entra ID, 
 
 #### [Lab 1: Service Control Policies (SCPs)](aws-iam-labs/lab1-service-control-policies/)
 
-Organization-wide security guardrails that enforce least-privilege access across multi-account environments.
+**Lab environment implementing** organization-wide security guardrails that enforce least-privilege access across multi-account environments.
+
 
 **What I Built:**
 - **Require MFA for IAM Actions** - Prevents privilege escalation without multi-factor authentication
@@ -231,7 +232,7 @@ Understanding how identity and access management patterns translate across platf
 
 ---
 
-## Skills Matrix
+## Skills & Experience (2 Years Hands-On)
 
 ### Identity & Access Management
 - ✅ Policy-based access control (Conditional Access, SCPs, Sign-On Policies)
@@ -311,6 +312,12 @@ Built as part of a career transition from hospitality management to cybersecurit
 - 2 years hands-on cybersecurity experience
 - Focus on IAM, compliance, and security operations
 - Self-directed learning across multiple cloud platforms
+
+### Portfolio Scope
+
+**Lab Environment:** All artifacts built in personal lab tenants for learning and demonstration purposes. No production experience or employer/client data included.
+
+**Experience Level:** 2 years hands-on IAM experience across multiple platforms. This portfolio demonstrates foundational skills and learning agility suitable for mid-level IAM Analyst or Technical Security Analyst roles.
 
 **What This Demonstrates:**
 - Hands-on implementation of enterprise security controls
