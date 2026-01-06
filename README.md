@@ -68,9 +68,19 @@ Organization-wide security monitoring that continuously scans for IAM misconfigu
 - Compliance documentation
 - CLI-based security operations
 
-**Real-World Application:** Continuous detection of IAM risks (similar to Entra ID's Access Reviews) - identifies overly permissive policies, external access, and configuration drift. Critical for SOC 2 compliance and security operations.
+**Real-World Application:** 
+Continuous detection of IAM risks (similar to Entra ID's Access Reviews) - identifies overly permissive policies, external access, and configuration drift. Critical for SOC 2 compliance and security operations.
 
 **Tools Used:** AWS CLI, IAM Access Analyzer, jq, JSON analysis
+
+**Finding Investigation**
+Access Analyzer detected external access to an IAM role through federated identity (Okta SAML):
+[AWS-Access_Analyzer1.pdf](https://github.com/user-attachments/files/24454825/AWS-Access_Analyzer1.pdf)
+
+*External principal (Okta SAML provider) has permission to assume Admin-Access-Lab role. This is intentional for SSO, but Access Analyzer flags it for review as it grants access outside the AWS Organization.*
+
+
+
 
 [View Lab 2](aws-iam-labs/lab2-iam-access-analyzer/)
 
