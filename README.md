@@ -75,7 +75,7 @@ Continuous detection of IAM risks (similar to Entra ID's Access Reviews) - ident
 
 **Finding Investigation**
 Access Analyzer detected external access to an IAM role through federated identity (Okta SAML):
-[AWS-Access_Analyzer1.pdf](https://github.com/user-attachments/files/24454825/AWS-Access_Analyzer1.pdf)
+
 
 *External principal (Okta SAML provider) has permission to assume Admin-Access-Lab role. This is intentional for SSO, but Access Analyzer flags it for review as it grants access outside the AWS Organization.*
 
