@@ -35,14 +35,9 @@ Organization-wide security monitoring detecting external IAM role access through
 
 Continuous scanning showing active findings requiring security review across AWS Organization. [View full lab →](aws-iam-labs/lab2-iam-access-analyzer/)
 
----
-
-### AWS Service Control Policies - Organization Security
-![SCP Implementation](aws-iam-labs/lab1-service-control-policies/images/scp-implementation.png)
-
-Policy-based access control enforcing MFA across multi-account environment. [View full lab →](aws-iam-labs/lab1-service-control-policies/)
 
 ---
+
 
 ### Okta Authentication Policies - MFA Enforcement
 ![MFA Policies](okta/images/mfa-policies-list.png)
