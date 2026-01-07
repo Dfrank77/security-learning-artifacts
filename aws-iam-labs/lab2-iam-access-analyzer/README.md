@@ -138,6 +138,16 @@ aws accessanalyzer list-findings --analyzer-arn ARN > findings-report.json
 
 **Key Advantage:** Access Analyzer is **automated and continuous** vs. manual periodic reviews. It uses **provable security** (formal logic) rather than heuristics.
 
+## Investigation Workflow
+
+### Finding Details
+
+Access Analyzer detected external access to an IAM role:
+
+![Finding Details](images/finding-details.png)
+
+*IAM role "Admin-Access-Lab" is accessible by external Okta SAML provider for SSO authentication.*
+
 ## Files in This Lab
 
 - `findings-summary.txt` - Human-readable summary of all findings
