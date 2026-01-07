@@ -17,6 +17,24 @@
 
 ---
 
+## 📸 Portfolio Highlights
+
+**Visual proof of hands-on work** - screenshots from actual AWS console implementations.
+
+### AWS IAM Access Analyzer - Security Investigation
+![Finding Investigation](aws-iam-labs/lab2-iam-access-analyzer/images/finding-details.png)
+
+Detected and investigated external IAM role access through federated identity (Okta SAML). Demonstrates security monitoring, finding investigation, and policy analysis. [View full lab →](aws-iam-labs/lab2-iam-access-analyzer/)
+
+---
+
+### AWS Service Control Policies - Organization Security
+![Active Findings](aws-iam-labs/lab2-iam-access-analyzer/images/findings-list.png)
+
+Organization-wide monitoring showing continuous security analysis across all AWS accounts. [View Lab 2 →](aws-iam-labs/lab2-iam-access-analyzer/)
+
+---
+
 ## Quick Reference
 [AWS IAM Commands Cheat Sheet](aws-iam-labs/aws-iam-commands-cheatsheet.md) - Comprehensive CLI reference guide
 
