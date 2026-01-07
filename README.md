@@ -19,19 +19,27 @@
 
 ## 📸 Portfolio Highlights
 
-**Visual proof of hands-on work** - screenshots from actual AWS console implementations.
+**Visual proof of hands-on work across multiple platforms**
 
-### AWS IAM Access Analyzer - Security Investigation
+### AWS IAM Access Analyzer - Security Monitoring
 ![Finding Investigation](aws-iam-labs/lab2-iam-access-analyzer/images/finding-details.png)
 
-Detected and investigated external IAM role access through federated identity (Okta SAML). Demonstrates security monitoring, finding investigation, and policy analysis. [View full lab →](aws-iam-labs/lab2-iam-access-analyzer/)
+Organization-wide security monitoring detecting external IAM role access through federated identity. [View full lab →](aws-iam-labs/lab2-iam-access-analyzer/)
 
----
+### AWS Service Control Policies - Organization Security  
+![SCP Implementation](aws-iam-labs/lab1-service-control-policies/images/scp-attached.png)
 
-### AWS Service Control Policies - Organization Security
-![Active Findings](aws-iam-labs/lab2-iam-access-analyzer/images/findings-list.png)
+Policy-based access control enforcing MFA across multi-account environment. [View full lab →](aws-iam-labs/lab2-iam-access-analyzer/)
 
-Organization-wide monitoring showing continuous security analysis across all AWS accounts. [View Lab 2 →](aws-iam-labs/lab2-iam-access-analyzer/)
+### Okta Lifecycle Automation
+![Lifecycle Workflow](okta/images/lifecycle-automation.png)
+
+Automated user provisioning and deprovisioning with JML workflows. [View full lab →]
+
+### Okta MFA Policy Enforcement
+![MFA Policy](okta/images/mfa-policy.png)
+
+Multi-factor authentication requirements for administrative access. [View full lab →]
 
 ---
 
