@@ -1,6 +1,6 @@
-# Security Learning Artifacts (IAM)
+# Multi-Cloud IAM labs
 
-**2-year IAM professional** building practical, hands-on labs across Microsoft Entra ID, AWS, Okta, and hybrid identity scenarios. This portfolio demonstrates foundational IAM skills suitable for mid-level Security/IAM Analyst roles.
+**IAM professional** building practical, hands-on labs across Microsoft Entra ID, AWS, Okta, and hybrid identity scenarios. This portfolio demonstrates foundational IAM skills suitable for mid-level Security/IAM Analyst roles.
 
 **What's Inside:** Lab-based implementations documenting configuration decisions, validation steps, and security rationale across multiple platforms - showcasing learning agility and technical execution.
 
