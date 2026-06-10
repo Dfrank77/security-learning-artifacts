@@ -17,6 +17,14 @@
 
 ---
 
+## Related Repositories
+
+Building on the lab work in this repo:
+
+- **[entra-iac](https://github.com/Dfrank77/entra-iac)** — Infrastructure-as-Code for Entra ID using Terraform. Demonstrates declarative provisioning, reusable modules, and break-glass exclusion patterns for Conditional Access policies.
+- **[entra-attack-path-visualizer](https://github.com/Dfrank77/entra-attack-path-visualizer)** — Python tool that detects privilege escalation paths in Microsoft Entra ID.
+- **[iam-attack-path-visualizer](https://github.com/Dfrank77/iam-attack-path-visualizer)** — Same analysis approach applied to AWS IAM.
+
 ---
 
 ## 📸 Portfolio Highlights
