@@ -385,4 +385,4 @@ Built as part of a career transition from hospitality management to cybersecurit
 
 ---
 
-*Last Updated: December 2025*
+
